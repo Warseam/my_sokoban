@@ -7,9 +7,13 @@ crates around in a warehouse, trying to get them to storage locations. The puzzl
 
 video game.
 
+
 USAGE :
        - make
+       
        - ./my_sokoban map
+
+
 
 For Epitech students :
 
